@@ -20,5 +20,6 @@
   "dependencies": {
     "argparse": "^1.0.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "preferGlobal": "true"
 }
