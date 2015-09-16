@@ -11,7 +11,7 @@ npm install -g faexempressous
 ```
 
 ## Usage
-Run `faexempressous $app_name` to generate boilerplate app, enter new directory and run `npm run dev`
+Run `faexempressous $app_name` to generate boilerplate app from a global install, if downloading run `npm install` then `sh script.sh $app_name`; enter new directory and run `npm run dev`.
 
 ## TODO
 
