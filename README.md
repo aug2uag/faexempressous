@@ -13,6 +13,10 @@ npm install -g faexempressous
 ## Usage
 Run `faexempressous $app_name` to generate boilerplate app from a global install, if downloading run `npm install` then `sh script.sh $app_name`; enter new directory and run `npm run dev`.
 
+### Windows users
+
+This script will not run in DOS, and you must use a Windows shell emulator such as [Cygwin](https://www.cygwin.com/) to run the script.
+
 ## TODO
 
 - Add options
