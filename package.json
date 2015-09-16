@@ -1,0 +1,24 @@
+{
+  "name": "faexempressous",
+  "version": "0.0.2",
+  "description": "Famous MixMode Express boilerplate",
+  "main": "script.sh",
+  "scripts": {
+    "test": "echo \"Test\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faexempressous"
+  },
+  "keywords": [
+    "famous",
+    "express",
+    "boilerplate"
+  ],
+  "author": "aug2uag <info@aug2uag.com> (http://aug2uag.com)",
+  "license": "MIT",
+  "dependencies": {
+    "argparse": "^1.0.2"
+  },
+  "devDependencies": {}
+}
