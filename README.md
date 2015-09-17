@@ -11,7 +11,7 @@ npm install -g faexempressous
 ```
 
 ## Usage
-Run `faexempressous $app_name` to generate boilerplate app from a global install, if downloading run `npm install` then `sh script.sh $app_name`; move your app directory to parent directory, enter into the new directory and run the app with `npm run dev`.
+Run `faexempressous $app_name` to generate boilerplate app from a global install, if downloading run `sh script.sh $app_name`; move your app directory to parent directory, enter into the new directory and run the app with `npm run dev`.
 
 ### Windows users
 
