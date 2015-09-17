@@ -1,6 +1,6 @@
 {
   "name": "faexempressous",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Famous MixMode Express boilerplate",
   "main": "script.sh",
   "scripts": {
@@ -17,9 +17,7 @@
   ],
   "author": "aug2uag <info@aug2uag.com> (http://aug2uag.com)",
   "license": "MIT",
-  "dependencies": {
-    "argparse": "^1.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "preferGlobal": "true"
 }
